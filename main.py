@@ -1,6 +1,6 @@
 from singleDipole import SquidLayout
 from singleDipole import SingleDipole
-from RandomDipoles import RandomDipoles
+from randomDipoles import RandomDipoles
 from singleDipole import twoAnglesConvolve
 import numpy as np
 
