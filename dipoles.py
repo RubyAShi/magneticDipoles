@@ -586,7 +586,7 @@ class FlatConvolve(RandomDipoles, SquidLayout):
         cbar.set_label('m$\Phi_0$', size=14)
         plt.xlabel('um', size=14)
         plt.ylabel('um', size=14)
-        plt.title('field strength')
+        plt.title('magnetic flux')
         plt.show()
 
         return flux
